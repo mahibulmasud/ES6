@@ -17,5 +17,5 @@ const bishal = (x,y) => {
     return result;
 }
 
- const result = bishal(7,5);
+const result = bishal(7,5);
 console.log(result);
