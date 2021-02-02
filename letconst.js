@@ -1,3 +1,5 @@
+//ES6 holo ecmascript6 ja jabascript ar modified/updated version
+
 // const age = 12;
 // age = 15;
 // console.log(age);
